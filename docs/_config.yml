@@ -22,7 +22,7 @@ title: DevZamurai's Blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Samurai Dev from Japan, currently in London as a Scale Developer.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/devzamurai" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: devzamurai
 github_username:  hoshikon
